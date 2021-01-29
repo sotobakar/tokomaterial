@@ -4,9 +4,16 @@
 
 Jangan lupa mengimpor file finaluas.sql
 
-1.Pull
-2.ketik composer update di terminal
-3.copy file env menjadi .env, lalu ubah konfigurasi seperti baseURL (baseURL letaknya di folder public agar dapat mengambil assets), database default configuration 4. Start apache + mysql 5. id admin = admin 6. pw = codeigniter
+1. Pull
+2. ketik composer update di terminal
+
+3. copy file env menjadi .env, lalu ubah konfigurasi seperti baseURL (baseURL letaknya di folder public agar dapat mengambil assets), database default configuration
+
+4. Start apache + mysql
+
+5. id admin = admin
+
+6. pw = codeigniter
 
 When updating, check the release notes to see if there are any changes you might need to apply
 to your `app` folder. The affected files can be copied or merged from
